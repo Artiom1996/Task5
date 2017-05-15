@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/custom_view_fragment"
+            android:title="@string/custom_view"></item>
+        <item
+            android:id="@+id/second_view_fragment"
+            android:title="second view">
+
+        </item>
+    </group>
+
+</menu>

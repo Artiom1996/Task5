@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task5</string>
+    <string name="custom_view">custom view</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_sad_smile">sad smile</string>
+    <string name="text_fragment_custom_view">Fragment custom view</string>
+    <string name="text_fragment_second">Fragment Second</string>
+    <string name="navigation_drawer_open">navigation drawer open</string>
+    <string name="navigation_drawer_close">navigation drawer close</string>
+</resources>
